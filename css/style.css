@@ -317,7 +317,8 @@ header {
           height: 30%;
           text-align: left; }
           .categories .items .wrap-items ul li .item .name p {
-            margin: 10px 0; }
+            margin: 10px 0;
+            color: #A8A8A8; }
           .categories .items .wrap-items ul li .item .name .prize {
             float: left;
             margin-right: 10px;
